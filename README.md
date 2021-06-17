@@ -1,9 +1,9 @@
 # portfolio_projects
-COVID-19 DATASET EXPLORATION USING SQL
+### COVID-19 DATASET EXPLORATION USING SQL
 
 PERSONAL PORTFOLIO PROJECT ON SQL 
 
-BACKGROUND INFORMATION
+**BACKGROUND INFORMATION**
 
 This is the Exploration of Covid 19 Dataset
 
@@ -16,7 +16,7 @@ The two files are Covid with death and population on one side and Vaccination on
 The exploration was done using Microsoft SQL Server and Microsoft SQL Server Management Studio
 
 
-EXPLORATION PROCEDURE
+**EXPLORATION PROCEDURE**
 
 1 Original dataset was downloaded as csv file from the source location
 
@@ -30,7 +30,7 @@ EXPLORATION PROCEDURE
 
 6 The two excel files were imported into the SQL server as tables using SQL Server 2019 import and Export Data feature
 
-SKILLS USED  
+**SKILLS USED** 
 
 Data Manipulation Languages, Joins, CTE's, Temp Tables, 
 
