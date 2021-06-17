@@ -32,7 +32,7 @@ EXPLORATION PROCEDURE
 
 SKILLS USED  
 
-Joins, CTE's, Temp Tables, 
+Data Manipulation Languages, Joins, CTE's, Temp Tables, 
 
 Windows Functions, Aggregate Functions, 
 
